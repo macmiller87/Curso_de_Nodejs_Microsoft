@@ -1,4 +1,4 @@
-Este repositório mostrara minha trilha de estudos de Nodejs atarvés do curso da Microsoft
+Este repositório mostrara minha trilha de estudos de Nodejs através do curso da Microsoft
 
 # Atividades: :pencil: :man_technologist:
 
@@ -6,3 +6,4 @@ Este repositório mostrara minha trilha de estudos de Nodejs atarvés do curso d
 - [Declarando variaveis](https://github.com/macmiller87/Curso_de_Nodejs_Microsoft/blob/main/Declarando_variaveis/index.js)
 - [Trabalhando com strings](https://github.com/macmiller87/Curso_de_Nodejs_Microsoft/tree/main/Trabalhando_com_strings)
 - [Usando Template Literals](https://github.com/macmiller87/Curso_de_Nodejs_Microsoft/tree/main/Usando_template_literals)
+- [Tipos de dados em javascript](https://github.com/macmiller87/Curso_de_Nodejs_Microsoft/blob/main/Tipos_de_dados_em_javascript/index.js)
