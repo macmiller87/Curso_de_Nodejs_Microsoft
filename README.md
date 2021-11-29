@@ -8,3 +8,4 @@ Este repositório mostrara minha trilha de estudos de Nodejs através do curso d
 - [Usando Template Literals](https://github.com/macmiller87/Curso_de_Nodejs_Microsoft/tree/main/Usando_template_literals)
 - [Tipos de dados em javascript](https://github.com/macmiller87/Curso_de_Nodejs_Microsoft/blob/main/Tipos_de_dados_em_javascript/index.js)
 - [Matemática em javascript](https://github.com/macmiller87/Curso_de_Nodejs_Microsoft/blob/main/Matematica_em_javascript/index.js)
+- [Convertendo Strings para Números](https://github.com/macmiller87/Curso_de_Nodejs_Microsoft/blob/main/Convertendo_strings_para_numero/index.js)
