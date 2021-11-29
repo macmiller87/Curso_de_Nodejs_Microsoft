@@ -39,7 +39,8 @@ const funcionario = {
     nome: 'Chapolin',
     idade: 40,
     profissao: 'Software Engineer',
-    salario: "10.000.00"
+    salario: 10.00000
+    
 };
 
 
