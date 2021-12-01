@@ -1,16 +1,16 @@
-// const horaAgora = new Date();
-// console.log(horaAgora);
+const horaAgora = new Date();
+console.log(horaAgora);
 
 
-// const ahora = new Date(2017, 8, 3, 5, 34, 45); // A gente consegue controlar quais os parametros de dias, horas, minutos e segundos passando os parametros.
-// // console.log(ahora);
-// // console.log(new Date(2050, 6, 9,)); 
+const ahora = new Date(2017, 8, 3, 5, 34, 45); // A gente consegue controlar quais os parametros de dias, horas, minutos e segundos passando os parametros.
+console.log(ahora);
+console.log(new Date(2050, 6, 9,)); 
 
-// ahora.setFullYear(2800); // É pegar modificar cad parametro da função Date() 
-// ahora.setMonth(5);  // É pegar modificar cad parametro da função Date()
-// ahora.setHours(8, 43); // É pegar modificar cad parametro da função Date()
+ahora.setFullYear(2800); // É pegar modificar cad parametro da função Date() 
+ahora.setMonth(5);  // É pegar modificar cad parametro da função Date()
+ahora.setHours(8, 43); // É pegar modificar cad parametro da função Date()
 
-// console.log(ahora);
+console.log(ahora);
 
 
 const minhaData = new Date(); 
