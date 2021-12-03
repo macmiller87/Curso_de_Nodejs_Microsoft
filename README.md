@@ -12,3 +12,4 @@ Este repositório mostrara minha trilha de estudos de Nodejs através do curso d
 - [Tratamento de erros Try/Catch/Finally](https://github.com/macmiller87/Curso_de_Nodejs_Microsoft/blob/main/Tratamento_erros_com_try_catch_finally/index.js)
 - [Datas no javascript](https://github.com/macmiller87/Curso_de_Nodejs_Microsoft/blob/main/Datas_no_javascript/index.js)
 - [Logica booleana com instruções IF](https://github.com/macmiller87/Curso_de_Nodejs_Microsoft/blob/main/Logica_booleana_com_instrucoes_if/index.js)
+- [Criando arrays](https://github.com/macmiller87/Curso_de_Nodejs_Microsoft/blob/main/Criando_arrays/index.js)
