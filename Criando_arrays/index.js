@@ -1,4 +1,4 @@
-// Exemplo -> Crinado um array
+// Exemplo -> Criando um array
 
 let animais = ['cachorro', 'gato', 'girafa', 'cavalo'];
 console.log(animais);
@@ -16,9 +16,9 @@ console.log(frutas.length);
 
 // Exemplo -> Acessar o último elemento do array
 
-// let frutas = ['Banana', 'Pera', 'Laranja', 'Abacaxi'];
-// let abacaxi = frutas[frutas.length - 1];
-// console.log(abacaxi);
+let frutas = ['Banana', 'Pera', 'Laranja', 'Abacaxi'];
+let abacaxi = frutas[frutas.length - 1];
+console.log(abacaxi);
 
 
 
