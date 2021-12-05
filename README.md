@@ -14,3 +14,4 @@ Este repositório mostrara minha trilha de estudos de Nodejs através do curso d
 - [Logica booleana com instruções IF](https://github.com/macmiller87/Curso_de_Nodejs_Microsoft/blob/main/Logica_booleana_com_instrucoes_if/index.js)
 - [Criando arrays](https://github.com/macmiller87/Curso_de_Nodejs_Microsoft/blob/main/Criando_arrays/index.js)
 - [Trabalhando com arrays](https://github.com/macmiller87/Curso_de_Nodejs_Microsoft/blob/main/Trabalhando_com_arrays/index.js)
+- [Métodos de array](https://github.com/macmiller87/Curso_de_Nodejs_Microsoft/blob/main/Metodos_de_arrays/index.js)
