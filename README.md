@@ -15,4 +15,4 @@ Este repositório mostrara minha trilha de estudos de Nodejs através do curso d
 - [Criando arrays](https://github.com/macmiller87/Curso_de_Nodejs_Microsoft/blob/main/Criando_arrays/index.js)
 - [Trabalhando com arrays](https://github.com/macmiller87/Curso_de_Nodejs_Microsoft/blob/main/Trabalhando_com_arrays/index.js)
 - [Métodos de array](https://github.com/macmiller87/Curso_de_Nodejs_Microsoft/blob/main/Metodos_de_arrays/index.js)
-- [Loops](https://github.com/macmiller87/Curso_de_Nodejs_Microsoft/tree/main/Loops)
+- [Loops](https://github.com/macmiller87/Curso_de_Nodejs_Microsoft/blob/main/Loops/index.js)
