@@ -17,3 +17,4 @@ Este repositório mostrara minha trilha de estudos de Nodejs através do curso d
 - [Métodos de array](https://github.com/macmiller87/Curso_de_Nodejs_Microsoft/blob/main/Metodos_de_arrays/index.js)
 - [Loops](https://github.com/macmiller87/Curso_de_Nodejs_Microsoft/blob/main/Loops/index.js)
 - [Função](https://github.com/macmiller87/Curso_de_Nodejs_Microsoft/blob/main/funcao/index.js)
+- [Arrow functions](https://github.com/macmiller87/Curso_de_Nodejs_Microsoft/blob/main/Arrow_functions/index.js)
