@@ -20,3 +20,4 @@ Este repositório mostrara minha trilha de estudos de Nodejs através do curso d
 - [Arrow functions](https://github.com/macmiller87/Curso_de_Nodejs_Microsoft/blob/main/Arrow_functions/index.js)
 - [Object Notation Json](https://github.com/macmiller87/Curso_de_Nodejs_Microsoft/blob/main/Object_Notation_JSON/index.js)
 - [Objetos](https://github.com/macmiller87/Curso_de_Nodejs_Microsoft/blob/main/Objetos/index.js)
+- [Promises](https://github.com/macmiller87/Curso_de_Nodejs_Microsoft/blob/main/Promises/index.js)
