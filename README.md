@@ -21,3 +21,4 @@ Este repositório mostrara minha trilha de estudos de Nodejs através do curso d
 - [Object Notation Json](https://github.com/macmiller87/Curso_de_Nodejs_Microsoft/blob/main/Object_Notation_JSON/index.js)
 - [Objetos](https://github.com/macmiller87/Curso_de_Nodejs_Microsoft/blob/main/Objetos/index.js)
 - [Promises](https://github.com/macmiller87/Curso_de_Nodejs_Microsoft/blob/main/Promises/index.js)
+- [Gerenciando Promises com Async\await](https://github.com/macmiller87/Curso_de_Nodejs_Microsoft/blob/main/Gerenciando_Promises_com_async_await/index.js)
